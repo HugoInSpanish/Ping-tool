@@ -1,2 +1,2 @@
 # Ping-tool
-A tool to ping websites
+A tool to ping websites.
